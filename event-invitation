@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Wedding Celebration</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <section class="hero">
+    <div class="container">
+      <h1>Wedding Celebration</h1>
+      <p>Join us for a joyful day filled with love, laughter, and memories.</p>
+      <time datetime="2025-05-30T17:00">May 30, 2025 at 5:00 PM</time>
+      <p>Grand Palace Hall, Xyz Street, Madddela palem,Vizag</p>
+      <a href="#" class="rsvp-btn">RSVP Now</a>
+
+      <div class="social-share">
+        <p>Share this event:</p>
+        <a href="#">Facebook</a> | 
+        <a href="#">Twitter</a> | 
+        <a href="#">Instagram</a>
+      </div>
+    </div>
+  </section>
+</body>
+</html>
