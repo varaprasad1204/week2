@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>My Hobbies</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <h1>My Hobbies</h1>
+  <p>Here are a few activities I enjoy in my free time.</p>
+
+  <div class="gallery">
+    <div class="hobby">
+      <img src="https://source.unsplash.com/300x200/?coding" alt="Coding">
+      <p>I like solving problems and building things with code.</p>
+    </div>
+    <div class="hobby">
+      <img src="https://source.unsplash.com/300x200/?music" alt="Music">
+      <p>Music helps me relax and express creativity.</p>
+    </div>
+    <div class="hobby">
+      <img src="https://source.unsplash.com/300x200/?travel" alt="Travel">
+      <p>Traveling opens up new experiences and learning.</p>
+    </div>
+  </div>
+</body>
+</html>
